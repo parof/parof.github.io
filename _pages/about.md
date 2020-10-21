@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Francesco Parolini's Webpage"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
