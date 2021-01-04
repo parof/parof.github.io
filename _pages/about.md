@@ -8,4 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Webpage under construction!
+```
+Warning: webpage under construction
+```
+
+I am a PhD Candidate in Computer Science at the Sorbonne University (Paris)
+under the supervision of Professor Antoine Miné. 
+Previously, I obtained a BSc and an MSc in Computer Science at University of Padua.
+
+My research interests include security and automated formal methods, in particular
+by Abstract Interpretation.
