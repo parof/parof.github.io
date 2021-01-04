@@ -16,7 +16,8 @@ I am a PhD Candidate in Computer Science at the Sorbonne University (Paris)
 under the supervision of Professor [Antoine Miné](https://www-apr.lip6.fr/~mine/), 
 within the [ERC MOPSA project](http://mopsa.lip6.fr/).
 Previously, I obtained a BSc and an MSc in Computer Science at University of Padua (Italy).
-For my [Master's Thesis](https://github.com/parof/master-thesis) I worked on ω-regular languages inclusion. 
+For my [Master's Thesis](https://github.com/parof/master-thesis) I worked on the 
+language inclusion problem for ω-regular languages.
 
 My research interests include security and automated formal methods, in particular
 by Abstract Interpretation.
