@@ -19,5 +19,5 @@ Previously, I obtained a BSc and an MSc in Computer Science at [University of Pa
 For my [Master's Thesis](https://github.com/parof/master-thesis) I worked on the 
 language inclusion problem for ω-regular languages.
 
-My research interests include security and automated formal methods, in particular
-by Abstract Interpretation.
+My research interests include *security* and *automated formal methods*, in particular
+by *Abstract Interpretation*.
