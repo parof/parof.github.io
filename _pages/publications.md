@@ -11,6 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
+
+* [Simulation-based Inclusion Checking Algorithms for ω-Languages](https://parof.github.io/files/Parolini_MThesis.pdf),
+Master's Thesis (2020).
