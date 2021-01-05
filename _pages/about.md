@@ -10,9 +10,8 @@ redirect_from:
 
 ---
 
-```
-Warning: webpage under construction
-```
+**Warning**: webpage under construction
+{: .notice}
 
 I am a PhD Candidate in Computer Science at the Sorbonne University (Paris) 
 under the supervision of Professor [Antoine Miné](https://www-apr.lip6.fr/~mine/), 
