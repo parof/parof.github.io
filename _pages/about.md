@@ -10,10 +10,10 @@ redirect_from:
 
 ---
 
-**Warning**: webpage under construction
-{: .notice}
+<!-- **Warning**: webpage under construction
+{: .notice} -->
 
-I am a PhD Candidate in Computer Science at the Sorbonne University (Paris) 
+I am a PhD Sudent in Computer Science at the Sorbonne University (Paris) 
 under the supervision of Professor [Antoine Miné](https://www-apr.lip6.fr/~mine/), 
 within the [ERC MOPSA project](http://mopsa.lip6.fr/).
 Previously, I obtained a BSc and an MSc in Computer Science at [University of Padua](https://www.unipd.it/en/) (Italy).
