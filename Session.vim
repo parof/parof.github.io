@@ -7,9 +7,10 @@ if expand('%') == '' && !&modified && line('$') <= 1 && getline(1) == ''
   let s:wipebuf = bufnr('%')
 endif
 set shortmess=aoO
-badd +35 index.html
+badd +63 index.html
 badd +182 css/foundation.css
-badd +33 css/custom.css
+badd +23 css/custom.css
+badd +2 ~/dotfiles/nvim/UltiSnips/html.snippets
 argglobal
 %argdel
 $argadd index.html
@@ -33,12 +34,14 @@ setlocal fdn=20
 setlocal fen
 23
 normal! zo
-let s:l = 9 - ((8 * winheight(0) + 26) / 53)
+62
+normal! zo
+let s:l = 28 - ((27 * winheight(0) + 26) / 53)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-9
-normal! 093|
+28
+normal! 045|
 tabnext 1
 if exists('s:wipebuf') && getbufvar(s:wipebuf, '&buftype') isnot# 'terminal'
   silent exe 'bwipe ' . s:wipebuf
