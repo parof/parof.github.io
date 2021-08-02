@@ -1,3 +1,12 @@
+body {
+  font-family: 'Crimson Text', serif;
+  font-size: 19px;
+}
+
+:is(h1, h2, h3, h4, h5, h6) {
+  font-family: 'Crimson Text', serif;
+}
+
 .cool-button {
   background-color: white;
   border: 1px solid #1779ba;
@@ -6,12 +15,13 @@
   text-decoration: none;
   display: inline-block;
   vertical-align: middle;
-  font-size: 12px;
-  margin: 0px 5px;
+  font-size: 11px;
+  margin: 0px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
   border-radius: 8px;
   padding: 5px 5px 5px 5px;
+  font-family: 'Source Code Pro', monospace;
 }
 
 .cool-button:hover {
@@ -20,7 +30,7 @@
 }
 
 .code {
-    font-family:'Lucida Console', monospace;
+    /* font-family:'Source Code Pro', monospace; */
 }
 
 .customimg {
@@ -31,7 +41,7 @@
   border: 4px solid #fefefe;
   -webkit-box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
           box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
-  line-height: 0; 
+  line-height: 0;
   }
 
 html {
