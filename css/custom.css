@@ -21,7 +21,7 @@ body {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  vertical-align: middle;
+  /* vertical-align: middle; */
   font-size: 11px;
   margin: 0px 2px;
   transition-duration: 0.4s;
