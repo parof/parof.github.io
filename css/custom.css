@@ -1,6 +1,6 @@
 body {
   font-family: 'Crimson Text', serif;
-  font-size: 19px;
+  font-size: 20px;
 }
 
 :is(h1, h2, h3, h4, h5, h6) {
@@ -8,10 +8,11 @@ body {
 }
 
 .main-element {
-  background-color: #1779ba25;
+  /* background-color: #1779ba25; */
   padding: 0px 0px 0px 15px;
   margin: 0px 0px 20px 0px;
-  border: 1px solid black;
+  /* border: 1px solid black; */
+  text-align: center;
 }
 
 .round-button {
@@ -49,7 +50,7 @@ body {
   -webkit-box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
           box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
   line-height: 0;
-  }
+}
 
 html {
   scroll-behavior: smooth;
