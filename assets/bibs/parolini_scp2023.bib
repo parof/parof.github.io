@@ -1,0 +1,13 @@
+@article{PAROLINI2023102960,
+  title = {Sound static analysis of regular expressions for vulnerabilities to denial of service attacks},
+  journal = {Science of Computer Programming},
+  volume = {229},
+  pages = {102960},
+  year = {2023},
+  issn = {0167-6423},
+  doi = {https://doi.org/10.1016/j.scico.2023.102960},
+  url = {https://www.sciencedirect.com/science/article/pii/S0167642323000424},
+  author = {Francesco Parolini and Antoine Miné},
+  keywords = {Regular expressions, Denial of service, Algorithmic complexity attacks, Static analysis, Security},
+  abstract = {Modern programming languages often provide functions to manipulate regular expressions in standard libraries. If they offer support for advanced features, the matching algorithm has an exponential worst-case time complexity: for some so-called vulnerable regular expressions, an attacker can craft ad hoc strings to force the matcher to exhibit an exponential behavior and perform a Regular Expression Denial of Service (ReDoS) attack. In this paper, we introduce a framework based on a tree semantics to statically identify ReDoS vulnerabilities. In particular, we put forward an algorithm to extract an overapproximation of the set of words that are dangerous for a regular expression, effectively catching all possible attacks. We have implemented the analysis in a tool called rat, and testing it on a dataset of 74,669 regular expressions, we observed that in 99.78% of the instances the analysis terminates in less than one second. We compared rat to seven other ReDoS detectors, and we found that our tool is faster, often by orders of magnitude, than most other tools. While raising a low number of false positives, rat is the only ReDoS detector that does not report false negatives.}
+}
